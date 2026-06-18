@@ -1,4 +1,4 @@
-# ✦ AISHZY @ Amal Irfan
+## ✦ Amal Irfan @ aishzy
 
 > Software Development Student  
 > Linux Enthusiast | Python Developer | System Thinker
@@ -24,7 +24,7 @@
 │ RAM     : 16GB                           │
 └──────────────────────────────────────────┘
 ```
-## ▣ TECH STACK
+### ✦ Tech Stack
 
 ### Core
 
