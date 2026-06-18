@@ -19,7 +19,7 @@ ccccc;0MNc.ccc.xMMd;ccccccccccccccc;
  cccccccc;.:odl:.;cccccccccccccc:,.        
   ccccccccccccccccccccccccccccc:'.          
    :ccccccccccccccccccccccc:;,..             
-    ':cccccccccccccccc::;,.              
+     ':cccccccccccccccc::;,.              
 
   Fedora Linux Workstation
 ┌──────────────────────────────────────────┐
