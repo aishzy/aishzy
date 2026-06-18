@@ -77,19 +77,7 @@ ccccc;0MNc.ccc.xMMd;ccccccccccccccc;
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aishzy&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishzy&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishzy&layout=compact&theme=tokyonight)
-
----
-
-## 🎯 Current Goals
-
-- Build larger Python projects
-- Learn software architecture patterns
-- Improve system design skills
-- Explore machine learning fundamentals
-- Contribute to open-source projects
 
 ---
 
@@ -101,7 +89,3 @@ ccccc;0MNc.ccc.xMMd;ccccccccccccccc;
 [██████░░░░░░░░░░░░░░] Linux Customization
 [████░░░░░░░░░░░░░░░░] Machine Learning Journey
 ```
-
----
-
-> "The best way to learn programming is to build things, break them, and then spend three hours figuring out why they broke."
