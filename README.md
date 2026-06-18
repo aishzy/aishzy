@@ -3,18 +3,21 @@
 > Software Application Development (Diploma) | Software Engineering (Degree) Student  
 > Linux Enthusiast | Python Developer | Data Analytics | System Thinker 
 
-```ascii
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
+```ascii             
+           ,'''''.   
+          |   ,.  |  
+          |  |  '_'  
+     ,....|  |..     
+   .'  ,_;|   ..'    
+   |  |   |  |       
+   |  ',_,'  |       
+    '.     ,'
+      '''''          
 
   Fedora Linux Workstation
 ┌──────────────────────────────────────────┐
-│ Distro  : Fedora Linux                   │
+│ Distro  : Fedora Linux                   │ 
+│ Kernel  : Linux                          │
 │ Editor  : VS Code / NeoVim               │
 │ Shell   : Zsh                            │
 │ WM      : Niri                           │
