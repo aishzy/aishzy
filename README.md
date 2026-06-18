@@ -15,10 +15,10 @@ cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;
 ccccc;XMO';cccc;MMM.;cccccccccccccccc'    
 ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     
 ccccc;0MNc.ccc.xMMd;ccccccccccccccc;      
-cccccc;dNMWXXXWM0:;cccccccccccccc:,      
-  cccccccc;.:odl:.;cccccccccccccc:,.        
+ cccccc;dNMWXXXWM0:;cccccccccccccc:,      
+ cccccccc;.:odl:.;cccccccccccccc:,.        
   ccccccccccccccccccccccccccccc:'.          
-  :ccccccccccccccccccccccc:;,..             
+   :ccccccccccccccccccccccc:;,..             
     ':cccccccccccccccc::;,.              
 
   Fedora Linux Workstation
