@@ -14,7 +14,7 @@
     '.     ,'
       '''''          
 
-  Fedora Linux Workstation
+         Fedora Linux Workstation
 ┌──────────────────────────────────────────┐
 │ Distro  : Fedora Linux                   │ 
 │ Kernel  : Linux                          │
