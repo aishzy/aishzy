@@ -4,15 +4,15 @@
 > Linux Enthusiast | Python Developer | Data Analytics | System Thinker 
 
 ```ascii             
-           ,'''''.   
-          |   ,.  |  
-          |  |  '_'  
-     ,....|  |..     
-   .'  ,_;|   ..'    
-   |  |   |  |       
-   |  ',_,'  |       
-    '.     ,'
-      '''''          
+                      ,'''''.   
+                     |   ,.  |  
+                     |  |  '_'  
+                ,....|  |..     
+              .'  ,_;|   ..'    
+              |  |   |  |       
+              |  ',_,'  |       
+               '.     ,'
+                 '''''          
 
          Fedora Linux Workstation
 ┌──────────────────────────────────────────┐
