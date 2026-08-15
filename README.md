@@ -1,6 +1,6 @@
 ## ✦ Amal Irfan @ aishzy
 
-> Software Application Development (Diploma) Student | Software Engineering (Degree) Student
+> Software Application Development (Diploma) | Software Engineering (Degree)
 > Linux Enthusiast | Python Developer | Data Analytics | System Thinker 
 
 ```ascii             
