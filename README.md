@@ -1,56 +1,52 @@
-# 👋 Amal Irfan
+# Amal Irfan
 
-**Full-Stack Developer | Data Enthusiast | Linux Power User**
-
----
-
-## 📋 About Me
-
-I'm a software engineer passionate about building scalable applications and exploring data-driven solutions. With a foundation in both software development and formal software engineering education, I focus on writing clean, efficient code and continuously learning new technologies.
-
-- 🎓 **Diploma** in Software Application Development | **Degree** in Software Engineering
-- 🐧 Linux enthusiast with expertise in system administration and development environments
-- 🔧 Experienced with full-stack development across multiple programming languages
-- 📊 Interested in data analytics and system architecture
+**Software Engineer & Full-Stack Developer**
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### Languages
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+Pursuing excellence in software engineering with a strong foundation in application development. I build scalable systems, write clean code, and continuously expand my technical expertise across modern development practices.
+
+**Education**
+- Diploma in Software Application Development
+- Degree in Software Engineering
+
+**Focus Areas**
+- Full-Stack Web Development
+- Data Analytics & System Architecture
+- Open Source & Clean Code Practices
+
+---
+
+## Technical Expertise
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools & Development**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Featured Work
+
+Explore my repositories to see my latest projects and contributions.
+
+---
+
+<div align="center">
+
+**Always learning, always building.**
+
 </div>
-
-### Tools & Environment
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=aishzy&style=flat-square&color=blue)
-
----
-
-## 🔗 Connect with Me
-
-- 💼 [LinkedIn](https://linkedin.com)
-- 🐙 [GitHub](https://github.com/aishzy)
-- 📧 Reach out for collaborations or opportunities!
-
----
-
-*Last updated: 2026*
