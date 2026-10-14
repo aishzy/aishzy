@@ -9,8 +9,8 @@
 Pursuing excellence in software engineering with a strong foundation in application development. I build scalable systems, write clean code, and continuously expand my technical expertise across modern development practices.
 
 **Education**
-- Diploma in Software Application Development
-- Degree in Software Engineering
+- Diploma in Information Technology (Software Application Development)
+- Bachelor of Computer Science (Software Engineering) with Honours
 
 **Focus Areas**
 - Full-Stack Web Development
