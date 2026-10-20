@@ -26,13 +26,7 @@ Right now, I’m exploring **software development, backend systems, data analyti
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,js,cpp,html,css,git,github,vscode,linux&theme=dark&perline=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,java,js,cpp,html,css,git,github,vscode,linux&theme=light&perline=10" />
-  <img src="https://skillicons.dev/icons?i=py,java,js,cpp,html,css,git,github,vscode,linux&perline=10" alt="Python, Java, JavaScript, C++, HTML, CSS, Git, GitHub, VS Code, and Linux" />
-</picture>
-
-<sub>Tools and languages I’m learning and using in coursework and projects.</sub>
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css,mysql,sqlite,git,github,vscode,linux&perline=6" alt="Python, Java, JavaScript, C++, HTML, CSS, Mysql, Sqlite, Git, GitHub, VS Code, and Linux" />
 
 </div>
 
