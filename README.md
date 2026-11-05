@@ -2,7 +2,7 @@
 
 # Amal Irfan
 
-### Computer Science · Software Engineering
+### Computer Science | Software Engineering | Data Science 
 
 **Curious by nature. Learning by building.**
 
