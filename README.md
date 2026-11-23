@@ -4,7 +4,7 @@
 
 ### Computer Science | Software Engineering | Data Science 
 
-**Curious by nature. Learning by building.**
+**Learning by building.**
 
 <a href="https://github.com/aishzy?tab=repositories">PROJECTS</a> &nbsp;·&nbsp;
 <a href="https://github.com/aishzy">GITHUB PROFILE</a> &nbsp;·&nbsp;
