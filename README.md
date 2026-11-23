@@ -35,6 +35,26 @@ Right now, I’m exploring **software development, backend systems, data analyti
 Recent projects from my public repositories, refreshed automatically each week.
 
 <!-- PROJECTS:START -->
+
+### [DapurPlan](https://github.com/Etticx/DapurPlan)
+
+A small-business management system designed to help food vendors
+track sales, ingredient costs, and menu profitability.
+
+`Python` `Data Analytics` `Business Management`
+
+### [FieldLens](https://github.com/aishzy/fieldlens)
+
+A project focused on building practical software solutions.
+
+`Python` `Software Development`
+
+### [Swift UMDAC](https://github.com/aishzy/swift-umdac)
+
+A data analysis project developed for UMDAC Datathon 2026.
+
+`Python` `Data Analysis`
+
 <!-- PROJECTS:END -->
 
 ## GitHub activity
