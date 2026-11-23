@@ -62,11 +62,7 @@ Recent projects from my public repositories, refreshed automatically each week.
 
 </div>
 
-<sub>Language cards reflect code in public repositories; they’re a project snapshot, not a measure of proficiency.</sub>
 
-## Learning in public
-
-Git can feel unfamiliar at first. I’m learning it the same way I learn to code: by trying things, making small commits, and improving as I go. If you’re new too, start small—your first repository doesn’t need to be perfect.
 
 <div align="center">
 
