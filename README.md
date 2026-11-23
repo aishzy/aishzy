@@ -6,7 +6,7 @@
 
 **Learning by building.**
 
-<a href="https://github.com/aishzy?tab=repositories">PROJECTS</a> &nbsp;·&nbsp;
+<a href="https://github.com/aishzy?tab=repositories">PROJECTS</a> &nbsp;&nbsp;
 
 </div>
 
